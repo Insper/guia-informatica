@@ -186,8 +186,8 @@ markdown_extensions:
 
 # Page tree
 nav:
-
-  - Home: docs/guia-informatica/index.md
+  - Home: index.md
+  - Comecar: guia-informatica/index.md
 
   
 
