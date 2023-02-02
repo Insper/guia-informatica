@@ -1,4 +1,4 @@
-# Preparando seu ambiente para o início das aulas!
+# Preparando seu ambiente para o início das aulas com o Windows!
 
 Para facilitar a sua vida durante o semestre, recomendamos que utilize uma estrutura de arquivos e diretórios padronizada, vai ajudar na hora de encontrar documentos para consultas rápidas ou mesmo para trabalhar nos projetos. 
 
@@ -8,65 +8,11 @@ Crie uma estrutura de pastas parecida com esta no seu sistema, procure manter se
 
 **Documentos > Insper > 2023 > 1-Semestre > Materias…**
 
-![imagem](imgs/0.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled.png)
+
+🪔 
 
 Uma boa prática na hora de nomear os seus arquivos e pastas é evitar acentos e espaços, pois, quando estiver usando alguma linguagem de programação, pode acontecer confusões no interpretador da linguagem por causa de algum acento ou de um espaço no caminho do arquivo. Vamos evitar pra prevenir chateações.
-
-## Instalando o Visual Studio Code
-
-Falando em programação, todos vocês vão precisar de um editor de código para trabalhar em projetos que envolvem programação, claro que cada matéria tem as suas recomendações, porém, escolhemos o Visual Studio Code como exemplo para ambientar vocês.
-
-[Na página do Visual Studio Code](https://visualstudio.microsoft.com/), escolha a sua plataforma e faça o download do instalador.
-
-![imagem](imgs/1.png)
-
-![imagem](imgs/2.png)
-
-![imagem](imgs/3.png)
-
-![imagem](imgs/4.png)
-
-![imagem](imgs/5.png)
-
-![imagem](imgs/6.png)
-
-![imagem](imgs/7.png)
-
-![imagem](imgs/8.png)
-
-![imagem](imgs/9.png)
-
-## Instalando o Anaconda
-
-Anaconda é um framework com suporte as linguagens de programação Python e R com foco em ciência de dados, o objetivo é facilitar a vida de quem vai trabalhar com ciência de dados, pois o anaconda facilita o gerenciamento dos pacotes e das bibliotecas necessárias.
-
-Faça o download do [anaconda no site oficial](https://www.anaconda.com/).
-
-`Não inicie a instalação como administrador, a menos que o software exija privilégios de administrador.`
-
-Leia e aceite os termos e condições, É recomendado que você instale no modo **Just Me**, que instalará o Anaconda Distribution apenas para a conta de usuário atual, clique em next.
-
-No pŕoximo passo, selecione uma pasta para instalar o Anaconda e clique em Avançar. **Instale o Anaconda em um caminho de diretório que não contenha espaços ou caracteres unicode**.
-
-![imagem](imgs/10.png)
-
-Adicione o Anaconda como seu Python padrão.
-
-![imagem](imgs/11.png)
-
-Clique em Install, depois em Next, até que complete a instalação.
-
-![imagem](imgs/12.png)
-
-![imagem](imgs/13.png)
-
-Clicar no Ícone MENU INICIAR e digitar Anaconda…
-
-![imagem](imgs/14.png)
-
-Para consultas segue site da documentação oficial abaixo:
-
-Fonte: [Documentação oficial do Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
 
 ## Ferramentas úteis disponíveis:
 
@@ -87,35 +33,35 @@ As vantagens do OneDrive:
 
 Entre no site [https://www.office.com/](https://www.office.com/), faça login clicando no bonequino localizado no canto superior direito da página
 
-![imagem](imgs/15.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%201.png)
 
 No menu de aplicativos localizado na barra de ferramentas a esquerda, encontre a opção OneDrive
 
-![imagem](imgs/16.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%202.png)
 
 Uma nova página será aberta para você, nessa interface você poderá criar novos arquivos Word, Excel, PowePoint, editar arquivos já sincronizados, fazer upload ou download de arquivos. Clique em sincronizar:
 
-![imagem](imgs/17.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%203.png)
 
 Siga os passos a seguir:
 
-![imagem](imgs/18.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%204.png)
 
-![imagem](imgs/19.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%205.png)
 
-![imagem](imgs/20.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%206.png)
 
-![imagem](imgs/21.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%207.png)
 
-![imagem](imgs/22.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%208.png)
 
-![imagem](imgs/23.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%209.png)
 
-![imagem](imgs/24.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2010.png)
 
 Depois de concluir os próximos passos você terá uma estrutura de pastas como essa:
 
-![imagem](imgs/25.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2011.png)
 
 Apartir de agora, seus arquivos serão sincronizados automaticamente com o seu OneDrive.
 
@@ -127,10 +73,66 @@ Logado na sua conta Microsoft, acesse o site abaixo:
 
 Clicar em Install Office e Salvar o arquivo de setup no computador (local).
 
-![imagem](imgs/26.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2012.png)
 
 Clicar sobre o executavel OfficeSetup.exe
 
-![imagem](imgs/27.png)
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2013.png)
 
 Finalizando a instalação, você terá no seu computador o Pacote Office, bom uso!
+
+## Instalando o Anaconda
+
+Anaconda é um framework com suporte as linguagens de programação Python e R com foco em ciência de dados, o objetivo é facilitar a vida de quem vai trabalhar com ciência de dados, pois o anaconda facilita o gerenciamento dos pacotes e das bibliotecas necessárias.
+
+Faça o download do [anaconda no site oficial](https://www.anaconda.com/).
+
+`Não inicie a instalação como administrador, a menos que o software exija privilégios de administrador.`
+
+Leia e aceite os termos e condições, É recomendado que você instale no modo **Just Me**, que instalará o Anaconda Distribution apenas para a conta de usuário atual, clique em next.
+
+No pŕoximo passo, selecione uma pasta para instalar o Anaconda e clique em Avançar. **Instale o Anaconda em um caminho de diretório que não contenha espaços ou caracteres unicode**.
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2014.png)
+
+Adicione o Anaconda como seu Python padrão.
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2015.png)
+
+Clique em Install, depois em Next, até que complete a instalação.
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2016.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2017.png)
+
+Clicar no Ícone MENU INICIAR e digitar Anaconda…
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2018.png)
+
+Para consultas segue site da documentação oficial abaixo:
+
+Fonte: [Documentação oficial do Anaconda](https://docs.anaconda.com/anaconda/install/windows/)
+
+## Instalando o Visual Studio Code
+
+Falando em programação, todos vocês vão precisar de um editor de código para trabalhar em projetos que envolvem programação, claro que cada matéria tem as suas recomendações, porém, escolhemos o Visual Studio Code como exemplo para ambientar vocês.
+
+[Na página do Visual Studio Code](https://visualstudio.microsoft.com/), escolha a sua plataforma e faça o download do instalador.
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2019.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2020.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2021.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2022.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2023.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2024.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2025.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2026.png)
+
+![Untitled](Preparando%20seu%20ambiente%20para%20o%20ini%CC%81cio%20das%20aulas%20c%20c51651d346a84a70b513775fa727dc46/Untitled%2027.png)
