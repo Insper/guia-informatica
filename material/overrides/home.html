@@ -17,10 +17,12 @@
           <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary">
             <span class="twemoji">
               {% include ".icons/fontawesome/brands/windows.svg" %}
-            </span>Windows
+            </span> Windows
           </a>
           <a href="{{ page.next_page.url | url }}" title="{{ page.next_page.title | e }}" class="md-button md-button--primary">
-            MacOS
+            <span class="twemoji">
+              {% include ".icons/fontawesome/brands/apple.svg" %}
+            </span> MacOS
           </a>          
         </div>
       </div>
