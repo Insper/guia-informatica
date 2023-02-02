@@ -1,1 +1,4 @@
 # Slides
+
+!!! pdf
+    ![](slides.pdf)
