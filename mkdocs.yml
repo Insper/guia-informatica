@@ -187,8 +187,8 @@ markdown_extensions:
 # Page tree
 nav:
   - Home: index.md
-  - Começar: guia-informatica/index.md
-
+  - Windows: guia-informatica/index.md
+  - MacOS: guia-informatica/guia-macos.md
   
 
  
