@@ -2,3 +2,5 @@
 
 !!! pdf
     ![](slides.pdf)
+    
+Slides Informatica    
